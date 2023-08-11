@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
 
 header{
-    background-color: rgb(255,245,238);
+    background-color: rgba(255, 245, 238, 0.952);
     text-align: center;
     border-radius: 10px;
 }
