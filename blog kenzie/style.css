@@ -13,14 +13,21 @@ body {
      padding:50px;
      height: 100vh;
     }
+article {
+    border-radius: 15px;
+    background-color:rgb(247, 229, 229);
+    color: black;
+}
 
 h2{
     margin-top: 20px;
+    color: blue;
     }
 
 a {
     text-decoration: underline;
     color: rgb(0,0,205);
+    margin-top: 20px;
     }
 
 h2{
@@ -53,3 +60,6 @@ input {
     border-radius: 5px;
     padding: 5px;
     }
+footer {
+    margin-top: 20px
+}
